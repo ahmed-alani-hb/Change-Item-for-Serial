@@ -1,0 +1,8 @@
+app_name = "change_item_for_serial"
+app_title = "Change Item for Serial"
+app_publisher = ""
+app_description = "Utility app to change item code for existing Serial No records"
+app_icon = "octicon octicon-tag"
+app_color = "grey"
+app_email = "support@example.com"
+app_license = "MIT"
