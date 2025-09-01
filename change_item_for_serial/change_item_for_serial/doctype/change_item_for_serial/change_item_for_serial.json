@@ -2,7 +2,7 @@
  "doctype": "DocType",
  "name": "Change Item For Serial",
  "module": "Change Item For Serial",
- "is_single": 1,
+ "issingle": 1,
  "custom": 0,
  "fields": [
   {
