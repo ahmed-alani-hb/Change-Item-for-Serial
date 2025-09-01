@@ -6,7 +6,8 @@ def get_data():
             "module_name": "Change Item for Serial",
             "color": "grey",
             "icon": "octicon octicon-tag",
-            "type": "module",
+            "type": "link",
             "label": _("Change Item for Serial"),
+            "link": "Form/Change Item For Serial",
         }
     ]
