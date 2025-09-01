@@ -5,6 +5,7 @@ from __future__ import annotations
 import frappe
 from frappe.model.document import Document
 
+
 # Import the utility function directly to avoid name collisions with the
 # package's nested module of the same name.
 from change_item_for_serial.utils import (
