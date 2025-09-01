@@ -1,0 +1,28 @@
+{
+ "doctype": "DocType",
+ "name": "Change Item For Serial",
+ "module": "Change Item For Serial",
+ "issingle": 1,
+ "fields": [
+  {
+   "fieldname": "serial_nos",
+   "fieldtype": "Small Text",
+   "label": "Serial Numbers",
+   "reqd": 1
+  },
+  {
+   "fieldname": "new_item_code",
+   "fieldtype": "Link",
+   "label": "New Item Code",
+   "options": "Item",
+   "reqd": 1
+  }
+ ],
+ "permissions": [
+  {
+   "role": "System Manager",
+   "read": 1,
+   "write": 1
+  }
+ ]
+}
